@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/logrusorgru/aurora"
+	aurora "github.com/logrusorgru/aurora/v4"
 	"github.com/miekg/dns"
 )
 
